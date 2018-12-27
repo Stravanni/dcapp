@@ -1,2 +1,2 @@
 remote_theme: pmarsceill/just-the-docs
-BASE_PATH : ./doc/
+source: doc
