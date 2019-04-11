@@ -1,9 +1,9 @@
 <!-- _coverpage.md -->
 
-# docsify <small>3.5</small>
+![logo](_media/icon.svg)
 
-> A magical documentation site generator.
+# Data Civilizer <small>0.1</small>
 
-- Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes
+> This is the website.
+
+[Get Started](#docsify)
